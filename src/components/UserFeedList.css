@@ -1,0 +1,15 @@
+.feed-item {
+  padding: 8px;
+  margin: 16px 0;
+  border: 1px solid #ddd;
+}
+
+.feed-item p {
+  text-align: center;
+  font-size: 18px;
+  margin: 8px 0;
+}
+
+.feed-item img {
+  width: 100%;
+}
